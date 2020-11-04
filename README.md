@@ -6,6 +6,9 @@ Este projeto é um exemplo de configuração com Integração Contínua.
 Build: 
 ![Status do Build](https://travis-ci.org/lskbr/calculadora_ci.svg?branch=master)
 
+Cobertura de testes:
+[![codecov](https://codecov.io/gh/lskbr/calculadora_ci/branch/master/graph/badge.svg?token=7ldkFV2XOG)](https://codecov.io/gh/lskbr/calculadora_ci)
+
 Instalação
 ----------
 
